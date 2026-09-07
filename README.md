@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <!--
   ============================================================
   PROFILE README — fill in the [PLACEHOLDER] fields below.
